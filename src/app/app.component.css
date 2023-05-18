@@ -2,3 +2,19 @@ p {
   font-size: 25px;
   color: red;
 }
+
+.derrota {
+  margin-top: 50px;
+}
+
+.derrota h3 {
+  color: red;
+}
+
+.vitoria {
+  margin-top: 50px;
+}
+
+.vitoria h3 {
+  color: green;
+}
